@@ -33,7 +33,7 @@ I sometimes do pet projects in c and c++ that I enjoy.
   <p>
   <img alt="Dmitriy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Dmitryyyyys&show_icons=true&theme=transparent"/>
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Dmitryyyyys&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitryyyyys&layout=compact&&langs_count=8"/>
     <br>
    <img src="https://metrics.lecoq.io/Dmitryyyyys" />
   </p>
