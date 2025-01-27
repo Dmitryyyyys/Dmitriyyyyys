@@ -20,7 +20,7 @@ I sometimes do pet projects in c and c++ that I enjoy.
     <h3>Langs</h3>
    <img src="https://skillicons.dev/icons?i=cs,cpp,py,java,html,css,js,ts,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,unity,linux,githubactions,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,neovim,postman,ultimate&perline=7" />
     <br>
