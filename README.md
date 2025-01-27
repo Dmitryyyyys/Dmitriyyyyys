@@ -7,13 +7,11 @@
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
 
-I'm a  developer from Belarus, working at [@VladStandard](https://github.com/Dmitryyyyys)  
+I'm a  developer from Belarus, working at [@DmitriyS](https://github.com/Dmitryyyyys)  
 
 I'm interested in web development, games, algorithms.  
 I sometimes do pet projects in c and c++ that I enjoy.
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
 
 
 <details align="left">
@@ -33,10 +31,10 @@ I sometimes do pet projects in c and c++ that I enjoy.
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitryyyyys&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Dmitryyyyys&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/Dmitryyyyys" />
   </p>
 </details>
